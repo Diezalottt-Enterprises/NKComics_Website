@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom global styles */
+body {
+  font-family: 'Montserrat', sans-serif;
+  /* If you want a dark base background, you can do it here or in your Layout */
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Bangers', cursive;
+}
